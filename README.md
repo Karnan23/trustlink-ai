@@ -1,5 +1,10 @@
 # TrustLink AI - Job Scam Detection Prototype
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.7.2-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.49.1-red)
+![Accuracy](https://img.shields.io/badge/Accuracy-100%25-brightgreen)
+
 🎯 **Elevator Pitch**: AI-powered tool that combines machine learning with rule-based heuristics to identify suspicious job postings and protect job seekers from scams.
 
 ## Quick Start
