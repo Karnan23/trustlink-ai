@@ -1,0 +1,25 @@
+=== TrustLink AI Demo Script ===
+
+1. ELEVATOR PITCH (30 seconds):
+"TrustLink AI is an intelligent job scam detection tool that combines machine learning with rule-based analysis to protect job seekers from fraudulent postings."
+
+2. WHAT IT DOES:
+- Analyzes job posting text in real-time
+- Provides 0-100 risk score with clear labels (Safe/Suspicious/High-risk)  
+- Shows specific reasons why a posting might be suspicious
+- Explains top contributing words from AI model
+
+3. HOW IT WORKS (Technical):
+"Uses logistic regression on TF-IDF features plus heuristics detecting payment requests, suspicious contact methods, and unrealistic promises - combined into weighted final score."
+
+4. DEMO STEPS:
+- Paste legitimate job: "Software Engineer at Google. 5+ years Python. $120k salary. Apply to jobs@google.com"
+- Show low risk score and explanation
+- Paste scam example: "Easy work from home! Earn $5000/month! Send $200 processing fee via WhatsApp!"
+- Show high risk score and triggered alerts
+
+5. NEXT STEPS ROADMAP:
+- Integrate real job board APIs for live scanning
+- Add deep learning models for better accuracy  
+- Implement user feedback loop for continuous improvement
+- Deploy as browser extension for real-time protection

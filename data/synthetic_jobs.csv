@@ -1,0 +1,301 @@
+id,text,label
+1,"Software Engineer position at TechCorp. 3+ years Python experience required. Competitive salary $80-120k. Apply with resume and cover letter to careers@techcorp.com",legitimate
+2,"URGENT! Make $5000/month working from home. Just send $200 processing fee via WhatsApp +1234567890. No experience needed!",scam
+3,"Marketing Manager role at StartupXYZ. MBA preferred. $70-90k salary. Send resume to hr@startupxyz.com. Office located downtown.",legitimate
+4,"Data Scientist position. PhD in CS/Stats required. Work with Fortune 500 clients. Salary negotiable. Apply at jobs@datasci.com",legitimate
+5,"Easy money! Earn $10000 monthly! Call now 555-SCAM-123. Send $500 for training materials. Work from anywhere!",scam
+6,"Frontend Developer needed. React, Vue experience. Remote friendly. $60-80k. Apply through our website careers.webdev.com",legitimate
+7,"Personal Assistant job. Transfer money for boss. Send $300 for background check to account #12345. Very urgent!",scam
+8,"Product Manager at FinTech startup. 5+ years experience. Stock options available. Email resume to pm@fintech.io",legitimate
+9,"Customer Service Rep. No qualifications needed. Earn 100000+ per month! Contact via Telegram @scammer123",scam
+10,"DevOps Engineer position. AWS/Docker skills required. $90-110k salary. Benefits included. Apply to devops@company.com",legitimate
+11,"Virtual Assistant role. Handle payments for clients. Send processing fee $400. Very legitimate opportunity!",scam
+12,"UX Designer wanted. Portfolio required. $65-85k salary. Health insurance provided. Contact design@agency.com",legitimate
+13,"Work from home data entry. Earn massive income! Send $250 registration fee via WhatsApp. Start immediately!",scam
+14,"Business Analyst position. SQL, Excel skills needed. $75-95k salary. Apply with resume to analyst@corp.com",legitimate
+15,"Administrative Assistant. Process payments daily. Pay $350 for software access. High earning potential guaranteed!",scam
+16,"Mobile Developer role. iOS/Android experience. $70-100k salary. Flexible hours. Apply at mobile@techstart.com",legitimate
+17,"Online survey job. Make thousands weekly! Send money for account setup $199. Work flexible hours from home!",scam
+18,"Sales Manager position. B2B experience preferred. Commission + base salary. Apply to sales@company.net",legitimate
+19,"Virtual bookkeeper needed. Handle client funds. Send $450 processing fee. Earn big money from home daily!",scam
+20,"Quality Assurance Engineer. Testing experience required. $60-80k salary. Apply to qa@software.com",legitimate
+21,"Receptionist position at medical office. Good communication skills needed. $35k salary. Apply to office@clinic.com",legitimate
+22,"Easy online work! Copy and paste job. Send $300 for training. Earn $8000 monthly guaranteed! Call now!",scam
+23,"Technical Writer needed. Strong writing skills required. $50-70k salary. Remote work available. Apply to writer@tech.com",legitimate
+24,"Mystery shopper job. Get paid to shop! Send $200 for starter kit via bank transfer. Flexible schedule!",scam
+25,"HR Coordinator role. HRCI certification preferred. $45-60k salary. Benefits package included. Apply to hr@business.com",legitimate
+26,"Social Media Manager position. Content creation experience. $40-55k salary. Apply with portfolio to social@brand.com",legitimate
+27,"Investment opportunity! Double your money! Send $1000 processing fee. Guaranteed returns! Contact WhatsApp only!",scam
+28,"Network Administrator needed. CCNA certification required. $65-85k salary. Apply to network@enterprise.com",legitimate
+29,"Personal shopper job. Use your credit card for purchases. Send $500 for verification. High commissions paid!",scam
+30,"Graphic Designer position. Adobe Creative Suite required. $45-65k salary. Apply with portfolio to design@studio.com",legitimate
+31,"Warehouse Associate needed. Physical work required. $30k salary plus benefits. Apply to warehouse@logistics.com",legitimate
+32,"Online tutoring job. Make huge money teaching! Send $400 for certification. Work from home comfort!",scam
+33,"Database Administrator role. MySQL, PostgreSQL experience. $80-100k salary. Apply to dba@database.com",legitimate
+34,"Email processing job. Forward emails daily. Send $350 for email software. Earn thousands per week!",scam
+35,"Accountant position. CPA required. Tax season experience preferred. $60-80k salary. Apply to accounting@firm.com",legitimate
+36,"Content Writer needed. SEO knowledge preferred. $35-50k salary. Remote work possible. Apply to content@media.com",legitimate
+37,"Payment processor job. Handle client transfers. Pay $600 for security clearance. Make big money fast!",scam
+38,"Systems Administrator position. Linux experience required. $70-90k salary. Apply to sysadmin@tech.com",legitimate
+39,"Survey coordinator role. Easy money making! Send processing fee $450. Earn $15000 monthly working from home!",scam
+40,"Project Manager needed. PMP certification preferred. $85-105k salary. Apply to pm@consulting.com",legitimate
+41,"Secretary position at law firm. Legal experience helpful. $40k salary plus benefits. Apply to legal@lawfirm.com",legitimate
+42,"Cash handling job. Process payments for company. Send $550 for bonding. Guaranteed high income daily!",scam
+43,"Web Developer position. Full-stack experience required. $75-95k salary. Apply to dev@webapp.com",legitimate
+44,"Investment processing role. Handle client funds. Pay $700 registration fee. Earn massive commissions!",scam
+45,"Marketing Coordinator needed. Digital marketing experience. $45-60k salary. Apply to marketing@agency.com",legitimate
+46,"Insurance Sales Representative. License required. Commission based salary. Apply to insurance@company.com",legitimate
+47,"Money transfer agent. Process wire transfers. Send $800 for licensing. Work from home and earn big!",scam
+48,"IT Support Specialist needed. Help desk experience preferred. $45-60k salary. Apply to support@it.com",legitimate
+49,"Package forwarding job. Receive and forward packages. Send $400 for supplies. Easy home based work!",scam
+50,"Research Analyst position. Market research experience. $55-75k salary. Apply to research@analytics.com",legitimate
+51,"Operations Manager role at manufacturing company. 5+ years experience. $80-100k salary. Apply to ops@manufacturing.com",legitimate
+52,"Online advertising job. Post ads daily. Send $250 for ad credits. Earn $5000 weekly from home!",scam
+53,"Customer Success Manager needed. SaaS experience preferred. $65-85k salary. Apply to success@saas.com",legitimate
+54,"Check processing clerk. Deposit checks for clients. Pay $350 for check scanner. High paying opportunity!",scam
+55,"Supply Chain Analyst position. Logistics experience required. $60-80k salary. Apply to supply@logistics.com",legitimate
+56,"Financial Advisor role. Series 7 license required. Commission + salary. Apply to advisor@financial.com",legitimate
+57,"Online moderator job. Monitor forums daily. Send $200 for access codes. Work flexible hours from home!",scam
+58,"Brand Manager position. Consumer goods experience. $70-90k salary. Apply to brand@consumer.com",legitimate
+59,"Currency exchange agent. Handle forex trades. Send $900 for trading account. Guaranteed profits daily!",scam
+60,"Training Coordinator needed. Adult education experience. $50-65k salary. Apply to training@education.com",legitimate
+61,"Engineering Manager position at aerospace company. 10+ years experience. $120-150k salary. Apply to eng@aerospace.com",legitimate
+62,"Assembly line worker needed. No experience required. $25k salary plus overtime. Apply to factory@manufacturing.com",legitimate
+63,"Bitcoin investment job. Trade cryptocurrency. Send $1200 for trading bot. Make millions trading online!",scam
+64,"Compliance Officer role. Regulatory experience required. $75-95k salary. Apply to compliance@bank.com",legitimate
+65,"Gift card processing job. Activate gift cards. Send $300 for activation codes. Easy money from home!",scam
+66,"Event Coordinator position. Hospitality experience preferred. $40-55k salary. Apply to events@hospitality.com",legitimate
+67,"Tax preparation specialist. Tax software experience. Seasonal work available. Apply to tax@accounting.com",legitimate
+68,"Money counting job. Count cash for businesses. Pay $450 for cash counter. Work part-time from home!",scam
+69,"Business Development Manager. Sales experience required. $80-120k salary. Apply to bizdev@growth.com",legitimate
+70,"Online gaming job. Test new games. Send $350 for gaming setup. Get paid to play games daily!",scam
+71,"Procurement Specialist needed. Vendor management experience. $65-80k salary. Apply to procurement@supply.com",legitimate
+72,"Real Estate Agent position. License required. Commission based. High earning potential. Apply to realestate@property.com",legitimate
+73,"Package inspection job. Inspect packages at home. Send $400 for inspection tools. Easy work, good pay!",scam
+74,"Treasury Analyst role. Financial modeling experience. $70-90k salary. Apply to treasury@finance.com",legitimate
+75,"Online casino dealer. Deal cards virtually. Send $500 for dealer training. Work from home casino!",scam
+76,"Public Relations Specialist. Media relations experience. $50-70k salary. Apply to pr@communications.com",legitimate
+77,"Facilities Manager position. Building maintenance experience. $60-75k salary. Apply to facilities@property.com",legitimate
+78,"Cryptocurrency mining job. Mine digital coins. Send $800 for mining software. Passive income opportunity!",scam
+79,"Risk Management Analyst needed. Insurance experience preferred. $65-85k salary. Apply to risk@insurance.com",legitimate
+80,"Lottery processing clerk. Process winning tickets. Pay $600 for processing system. Handle millions daily!",scam
+81,"Interior Designer position. Design portfolio required. $45-65k salary. Apply to design@interior.com",legitimate
+82,"Security Guard needed. Security license preferred. $30k salary plus benefits. Apply to security@guard.com",legitimate
+83,"Online pharmacy job. Process prescriptions. Send $700 for pharmacy license. Medical knowledge not required!",scam
+84,"Supply Chain Manager role. Logistics experience required. $85-105k salary. Apply to scm@logistics.com",legitimate
+85,"Money laundering specialist. Clean dirty money. Send $1000 for cleaning supplies. Very confidential work!",scam
+86,"Technical Support Engineer. Customer service experience. $55-70k salary. Apply to tech@support.com",legitimate
+87,"Investment Banking Analyst. Finance degree required. $100-140k salary. Apply to ib@bank.com",legitimate
+88,"Online slot machine operator. Operate virtual slots. Send $450 for slot software. Work from casino!",scam
+89,"Product Marketing Manager. B2B marketing experience. $75-95k salary. Apply to product@marketing.com",legitimate
+90,"Diamond investment broker. Buy and sell diamonds. Pay $1500 for diamond kit. Millionaire opportunity!",scam
+91,"Logistics Coordinator position. Shipping experience helpful. $40-55k salary. Apply to logistics@shipping.com",legitimate
+92,"Construction Manager needed. Construction experience required. $80-100k salary. Apply to construction@build.com",legitimate
+93,"Forex trading assistant. Execute trades daily. Send $600 for trading platform. Make money trading currencies!",scam
+94,"Human Resources Manager. HR experience required. $70-90k salary. Benefits included. Apply to hr@company.com",legitimate
+95,"Online banking job. Process online transactions. Send $550 for banking software. Handle customer accounts!",scam
+96,"Sales Director position. Leadership experience required. $100-130k salary. Apply to sales@enterprise.com",legitimate
+97,"Credit Repair Specialist. Financial services experience. $45-60k salary. Apply to credit@financial.com",legitimate
+98,"Precious metals trader. Buy and sell gold. Pay $800 for trading account. Guaranteed profits in metals!",scam
+99,"Operations Director role. Multi-location management experience. $110-140k salary. Apply to operations@corp.com",legitimate
+100,"Money printing job. Print money at home. Send $900 for printing press. Legal money making opportunity!",scam
+101,"Software Architect position. 10+ years development experience. $120-160k salary. Apply to architect@software.com",legitimate
+102,"Medical Billing Specialist. Healthcare experience preferred. $35-45k salary. Apply to billing@healthcare.com",legitimate
+103,"Investment fund manager. Manage client portfolios. Send $1200 for fund setup. Guaranteed high returns!",scam
+104,"Digital Marketing Manager. SEO/SEM experience required. $60-80k salary. Apply to digital@marketing.com",legitimate
+105,"Online auction helper. Bid on auctions. Send $400 for bidding software. Win valuable items daily!",scam
+106,"Financial Analyst position. CFA preferred. Excel modeling required. $65-85k salary. Apply to analyst@finance.com",legitimate
+107,"Maintenance Technician needed. Mechanical experience required. $40k salary plus benefits. Apply to maintenance@facility.com",legitimate
+108,"Cryptocurrency consultant. Advise on crypto investments. Pay $700 for consultant certification. Expert income!",scam
+109,"Regional Sales Manager. Territory management experience. $90-120k salary. Apply to regional@sales.com",legitimate
+110,"Online survey manager. Manage survey responses. Send $300 for survey software. Easy management job!",scam
+111,"Creative Director position. Agency experience required. $80-110k salary. Apply to creative@agency.com",legitimate
+112,"Pharmacy Technician role. Pharmacy experience preferred. $30-40k salary. Apply to pharmacy@drugstore.com",legitimate
+113,"Binary options trader. Trade binary options. Send $650 for trading system. Guaranteed winning trades!",scam
+114,"Change Management Consultant. Organizational development experience. $85-115k salary. Apply to change@consulting.com",legitimate
+115,"Online sweepstakes coordinator. Coordinate prize drawings. Pay $450 for coordination software. Manage millions in prizes!",scam
+116,"Environmental Engineer needed. Environmental science degree. $70-90k salary. Apply to environmental@engineering.com",legitimate
+117,"Bank Teller position. Customer service experience. $28k salary plus benefits. Apply to teller@bank.com",legitimate
+118,"Options trading specialist. Trade stock options. Send $750 for options platform. Professional trader income!",scam
+119,"Vendor Manager role. Procurement experience required. $70-85k salary. Apply to vendor@procurement.com",legitimate
+120,"Money order processor. Process money orders. Pay $500 for processing equipment. Handle thousands daily!",scam
+121,"Chief Technology Officer position. Technology leadership experience. $150-200k salary. Apply to cto@startup.com",legitimate
+122,"Receptionist needed at dental office. Front desk experience. $25k salary. Apply to reception@dental.com",legitimate
+123,"Commodities trader job. Trade agricultural products. Send $850 for trading access. Profit from food markets!",scam
+124,"Business Intelligence Analyst. Data analysis experience. $60-80k salary. Apply to bi@analytics.com",legitimate
+125,"Online lottery agent. Sell lottery tickets. Pay $400 for agent license. Commission on every sale!",scam
+126,"Retail Manager position. Retail experience required. $45-60k salary. Apply to retail@store.com",legitimate
+127,"Food Service Manager needed. Restaurant experience required. $40-55k salary. Apply to food@restaurant.com",legitimate
+128,"Penny stock broker. Trade penny stocks. Send $600 for broker license. Turn pennies into dollars!",scam
+129,"Information Security Analyst. Cybersecurity experience required. $75-95k salary. Apply to security@cyber.com",legitimate
+130,"ATM processing job. Service ATM machines. Pay $550 for ATM tools. Handle cash transactions daily!",scam
+131,"Training Manager position. Corporate training experience. $65-80k salary. Apply to training@corporate.com",legitimate
+132,"Nurse Practitioner role. NP license required. $85-105k salary. Apply to np@healthcare.com",legitimate
+133,"Foreign exchange dealer. Deal foreign currencies. Send $900 for dealer platform. International money opportunity!",scam
+134,"Content Marketing Manager. Content strategy experience. $55-75k salary. Apply to content@digital.com",legitimate
+135,"Online ticket broker. Resell event tickets. Pay $650 for ticketing system. Profit from sold out shows!",scam
+136,"Plant Manager position. Manufacturing experience required. $95-120k salary. Apply to plant@manufacturing.com",legitimate
+137,"Medical Assistant needed. Healthcare experience preferred. $30-35k salary. Apply to medical@clinic.com",legitimate
+138,"Hedge fund analyst. Analyze investment opportunities. Send $1100 for analyst tools. Wall Street level income!",scam
+139,"Digital Product Manager. Product management experience. $80-100k salary. Apply to product@digital.com",legitimate
+140,"Wire transfer specialist. Process wire transfers. Pay $700 for transfer system. Handle international wires!",scam
+141,"Research Scientist position. PhD in relevant field. $90-120k salary. Apply to research@science.com",legitimate
+142,"Administrative Coordinator role. Office administration experience. $35-45k salary. Apply to admin@office.com",legitimate
+143,"Cryptocurrency exchange operator. Operate crypto exchange. Send $1000 for exchange license. Own your exchange!",scam
+144,"Strategic Planning Manager. Business strategy experience. $85-105k salary. Apply to strategy@corporate.com",legitimate
+145,"Check cashing agent. Cash checks for customers. Pay $800 for cashing license. Earn fees on every check!",scam
+146,"User Experience Designer. UX design portfolio required. $70-90k salary. Apply to ux@design.com",legitimate
+147,"Laboratory Technician needed. Lab experience preferred. $35-45k salary. Apply to lab@laboratory.com",legitimate
+148,"Futures trading advisor. Advise on futures trades. Send $950 for advisor certification. Futures market profits!",scam
+149,"Enterprise Sales Manager. B2B sales experience. $100-140k salary. Apply to enterprise@sales.com",legitimate
+150,"Online payment processor. Process online payments. Pay $600 for processing software. Handle e-commerce payments!",scam
+151,"Chief Financial Officer position. Senior finance leadership. $180-250k salary. Equity package. Apply to cfo@growth.com",legitimate
+152,"Customer Service Representative. Call center experience helpful. $28k salary. Apply to service@support.com",legitimate
+153,"Gold trading specialist. Buy and sell precious metals. Send $1300 for trading vault. Precious metals fortune!",scam
+154,"Data Engineer position. Big data experience required. $85-110k salary. Apply to data@engineering.com",legitimate
+155,"Online gambling consultant. Advise on gambling strategies. Pay $750 for consultant materials. Winning guaranteed!",scam
+156,"Marketing Director role. Marketing leadership experience. $90-120k salary. Apply to marketing@company.com",legitimate
+157,"Postal Worker position. Government benefits available. $35k starting salary. Apply to postal@usps.gov",legitimate
+158,"Currency arbitrage trader. Profit from currency differences. Send $800 for arbitrage software. Risk-free profits!",scam
+159,"Solutions Architect needed. Enterprise architecture experience. $100-130k salary. Apply to solutions@architecture.com",legitimate
+160,"Money transfer coordinator. Coordinate international transfers. Pay $650 for coordination system. Global money movement!",scam
+161,"Legal Assistant position. Legal experience preferred. $40-50k salary. Apply to legal@lawfirm.com",legitimate
+162,"Hotel Manager needed. Hospitality experience required. $55-70k salary. Apply to hotel@hospitality.com",legitimate
+163,"Cryptocurrency miner operator. Operate mining rigs. Send $1100 for mining hardware. Mine digital gold!",scam
+164,"Technical Product Manager. Technical background required. $95-120k salary. Apply to tech@product.com",legitimate
+165,"Invoice processing clerk. Process customer invoices. Pay $500 for processing software. Handle business payments!",scam
+166,"Construction Supervisor position. Construction leadership experience. $60-75k salary. Apply to supervisor@construction.com",legitimate
+167,"Social Worker needed. MSW degree required. $45-55k salary. Apply to social@services.com",legitimate
+168,"Stock market analyst. Analyze market trends. Send $850 for analysis tools. Beat the market consistently!",scam
+169,"Information Technology Manager. IT leadership experience. $80-100k salary. Apply to it@technology.com",legitimate
+170,"Online casino manager. Manage virtual casino. Pay $900 for casino software. Run your own casino!",scam
+171,"Mechanical Engineer position. Engineering degree required. $70-90k salary. Apply to mechanical@engineering.com",legitimate
+172,"Executive Assistant role. C-level support experience. $50-65k salary. Apply to executive@corporate.com",legitimate
+173,"Binary trading instructor. Teach binary trading. Send $700 for instructor materials. Share trading secrets!",scam
+174,"Supply Chain Director. Senior supply chain experience. $110-140k salary. Apply to supply@enterprise.com",legitimate
+175,"Money counting supervisor. Supervise cash counting. Pay $750 for supervisor training. Manage counting operations!",scam
+176,"Civil Engineer needed. PE license preferred. $75-95k salary. Apply to civil@engineering.com",legitimate
+177,"Paralegal position at corporate law firm. Legal studies preferred. $40-55k salary. Apply to paralegal@corporate-law.com",legitimate
+178,"Forex signal provider. Provide trading signals. Send $600 for signal software. Subscribers pay for signals!",scam
+179,"Database Administrator role. Database management experience. $70-90k salary. Apply to dba@database.com",legitimate
+180,"Check verification specialist. Verify check authenticity. Pay $650 for verification tools. Prevent check fraud!",scam
+181,"Transportation Manager position. Logistics experience required. $65-80k salary. Apply to transport@logistics.com",legitimate
+182,"Teacher needed at elementary school. Teaching license required. $40-50k salary. Apply to teacher@school.edu",legitimate
+183,"Precious metals appraiser. Appraise gold and silver. Send $800 for appraisal kit. Appraise valuable metals!",scam
+184,"Business Process Analyst. Process improvement experience. $60-75k salary. Apply to process@consulting.com",legitimate
+185,"Electronic payment processor. Process electronic payments. Pay $700 for payment gateway. Modern payment processing!",scam
+186,"Electrical Engineer position. EE degree required. $75-100k salary. Apply to electrical@engineering.com",legitimate
+187,"Store Manager needed. Retail management experience. $45-55k salary. Apply to store@retail.com",legitimate
+188,"Investment portfolio manager. Manage investment portfolios. Send $1200 for portfolio software. Professional management fees!",scam
+189,"Cloud Architect role. Cloud computing expertise. $110-140k salary. Apply to cloud@architecture.com",legitimate
+190,"Wire fraud investigator. Investigate fraudulent wires. Pay $850 for investigation tools. Fight financial crime!",scam
+191,"Chemical Engineer position. Chemical engineering degree. $80-105k salary. Apply to chemical@engineering.com",legitimate
+192,"Physical Therapist needed. PT license required. $70-85k salary. Apply to pt@healthcare.com",legitimate
+193,"Cryptocurrency advisor specialist. Advise on crypto investments. Send $950 for advisor credentials. Crypto expert income!",scam
+194,"Marketing Analytics Manager. Analytics experience required. $70-90k salary. Apply to analytics@marketing.com",legitimate
+195,"Money order specialist. Specialize in money orders. Pay $600 for specialist certification. Money order expertise!",scam
+196,"Biomedical Engineer role. Biomedical engineering degree. $75-95k salary. Apply to biomedical@engineering.com",legitimate
+197,"Police Officer position. Law enforcement training required. $45k starting salary. Apply to police@city.gov",legitimate
+198,"Online trading mentor. Mentor new traders. Send $750 for mentor certification. Teach others to trade!",scam
+199,"Enterprise Architect position. Architecture experience required. $120-150k salary. Apply to enterprise@architecture.com",legitimate
+200,"Cash management specialist. Manage corporate cash. Pay $800 for cash management system. Optimize cash flow!",scam
+201,"Aerospace Engineer needed. Aerospace degree required. $85-115k salary. Apply to aerospace@engineering.com",legitimate
+202,"Firefighter position. Fire academy training required. $50k starting salary. Apply to fire@city.gov",legitimate
+203,"Foreign exchange mentor. Mentor forex traders. Send $650 for mentor materials. Guide trading students!",scam
+204,"Product Owner role. Agile/Scrum experience required. $80-100k salary. Apply to owner@product.com",legitimate
+205,"Remittance processor. Process money remittances. Pay $700 for remittance system. International money transfers!",scam
+206,"Industrial Engineer position. IE degree preferred. $70-85k salary. Apply to industrial@engineering.com",legitimate
+207,"Librarian needed. Library science degree required. $40-50k salary. Apply to librarian@library.org",legitimate
+208,"Cryptocurrency exchange advisor. Advise on crypto exchanges. Send $850 for advisor package. Exchange expertise income!",scam
+209,"Scrum Master role. Scrum certification required. $70-90k salary. Apply to scrum@agile.com",legitimate
+210,"Payment gateway operator. Operate payment gateways. Pay $750 for gateway license. Process online payments!",scam
+211,"Petroleum Engineer position. Petroleum engineering degree. $95-125k salary. Apply to petroleum@energy.com",legitimate
+212,"Occupational Therapist needed. OT license required. $65-80k salary. Apply to ot@rehabilitation.com",legitimate
+213,"Bitcoin mining consultant. Consult on bitcoin mining. Send $1000 for consultant certification. Mining expertise!",scam
+214,"DevOps Engineer role. CI/CD pipeline experience. $85-110k salary. Apply to devops@technology.com",legitimate
+215,"Electronic funds transfer specialist. Transfer electronic funds. Pay $650 for transfer authorization. EFT specialist!",scam
+216,"Environmental Scientist position. Environmental science degree. $55-70k salary. Apply to environmental@science.com",legitimate
+217,"Pharmacist needed. PharmD degree required. $110-130k salary. Apply to pharmacist@pharmacy.com",legitimate
+218,"Trading algorithm developer. Develop trading algorithms. Send $900 for development tools. Algorithmic trading profits!",scam
+219,"Site Reliability Engineer. SRE experience required. $90-120k salary. Apply to sre@reliability.com",legitimate
+220,"Currency conversion specialist. Convert currencies for clients. Pay $600 for conversion software. Foreign exchange specialist!",scam
+221,"Materials Engineer position. Materials science degree. $75-95k salary. Apply to materials@engineering.com",legitimate
+222,"Veterinarian needed. DVM degree required. $80-100k salary. Apply to vet@animal.com",legitimate
+223,"Cryptocurrency trading bot operator. Operate trading bots. Send $800 for bot software. Automated trading profits!",scam
+224,"Machine Learning Engineer role. ML experience required. $100-130k salary. Apply to ml@ai.com",legitimate
+225,"International wire specialist. Process international wires. Pay $750 for wire processing system. Global banking!",scam
+226,"Nuclear Engineer position. Nuclear engineering degree. $85-110k salary. Apply to nuclear@energy.com",legitimate
+227,"Dentist needed. DDS degree required. $120-160k salary. Apply to dentist@dental.com",legitimate
+228,"Forex robot programmer. Program forex robots. Send $700 for programming suite. Automated forex income!",scam
+229,"Security Engineer role. Information security experience. $85-105k salary. Apply to security@infosec.com",legitimate
+230,"Digital currency processor. Process digital currencies. Pay $850 for processing authorization. Digital money future!",scam
+231,"Mining Engineer position. Mining engineering degree. $80-105k salary. Apply to mining@resources.com",legitimate
+232,"Optometrist needed. OD degree required. $100-125k salary. Apply to optometrist@vision.com",legitimate
+233,"Arbitrage trading specialist. Execute arbitrage trades. Send $950 for trading platform. Risk-free arbitrage profits!",scam
+234,"Blockchain Developer role. Blockchain experience required. $95-125k salary. Apply to blockchain@crypto.com",legitimate
+235,"Money service business operator. Operate money service business. Pay $1100 for MSB license. Financial services empire!",scam
+236,"Geological Engineer position. Geological engineering degree. $75-100k salary. Apply to geological@engineering.com",legitimate
+237,"Chiropractor needed. DC degree required. $70-95k salary. Apply to chiropractor@wellness.com",legitimate
+238,"Cryptocurrency hedge fund manager. Manage crypto hedge fund. Send $1500 for fund setup. Institutional crypto returns!",scam
+239,"Reliability Engineer role. Reliability engineering experience. $80-100k salary. Apply to reliability@engineering.com",legitimate
+240,"Prepaid card processor. Process prepaid card transactions. Pay $650 for processing system. Modern card processing!",scam
+241,"Bioengineering position. Bioengineering degree required. $75-95k salary. Apply to bioengineering@biotech.com",legitimate
+242,"Psychologist needed. Psychology PhD required. $70-90k salary. Apply to psychologist@mental-health.com",legitimate
+243,"High-frequency trading developer. Develop HFT systems. Send $1200 for development platform. Microsecond profits!",scam
+244,"Quality Engineer role. Quality engineering experience. $65-85k salary. Apply to quality@manufacturing.com",legitimate
+245,"Mobile payment processor. Process mobile payments. Pay $700 for mobile gateway. Next-generation payments!",scam
+246,"Manufacturing Engineer position. Manufacturing engineering degree. $70-90k salary. Apply to manufacturing@factory.com",legitimate
+247,"Psychiatrist needed. MD with psychiatry residency. $180-220k salary. Apply to psychiatrist@mental-health.com",legitimate
+248,"Quantum trading algorithm developer. Develop quantum algorithms. Send $1400 for quantum computer access. Future trading!",scam
+249,"Process Engineer role. Chemical process experience. $75-95k salary. Apply to process@chemical.com",legitimate
+250,"Cryptocurrency exchange market maker. Make markets on exchanges. Pay $1000 for market making software. Liquidity profits!",scam
+251,"Software Engineer at Google-like tech company. 5+ years experience. $130-180k salary plus equity. Apply to careers@techgiant.com",legitimate
+252,"Make $50000 in 30 days! Work from home processing payments. Send $800 via WhatsApp +1-555-SCAM for starter kit!",scam
+253,"Senior Data Scientist role at Fortune 500. PhD preferred. Machine learning expertise. $140-170k salary. Apply to ml@fortune500.com",legitimate
+254,"URGENT! Personal assistant needed. Handle boss money transfers. Send $600 processing fee to account #999888. Start today!",scam
+255,"Product Manager at fintech startup. 3+ years PM experience. Stock options. $110-140k salary. Apply to pm@fintech-startup.com",legitimate
+256,"Easy work! Email forwarding job. Earn $15000 monthly. Send $450 for email system via bank transfer. No experience needed!",scam
+257,"Backend Engineer position. Python/Django required. Remote friendly. $90-120k salary. Apply to backend@webapp-startup.com",legitimate
+258,"Investment opportunity! Triple your investment! Send $2000 processing fee. Call only Telegram @investor999. Guaranteed returns!",scam
+259,"UX Research Lead at design agency. User research experience required. $95-125k salary. Apply to research@design-agency.com",legitimate
+260,"Customer service from home. Process refunds for customers. Pay $500 for refund software. Handle customer money!",scam
+261,"DevOps Lead position. Kubernetes/AWS expertise. $115-145k salary. Equity package. Apply to devops@cloud-startup.com",legitimate
+262,"Online data entry work. Copy-paste job earning thousands! Send $350 registration fee WhatsApp only. Flexible hours guaranteed!",scam
+263,"Engineering Manager at robotics company. 8+ years experience. $140-180k salary. Apply to engineering@robotics-corp.com",legitimate
+264,"Package forwarding business. Forward packages from home. Send $750 for forwarding license. International shipping profits!",scam
+265,"Sales Director at SaaS company. Enterprise sales experience. $130-170k base plus commission. Apply to sales@saas-leader.com",legitimate
+266,"Check processing from home. Deposit checks for clients. Pay $650 for check processing equipment. Easy money handling!",scam
+267,"Technical Lead at AI startup. Machine learning background. $120-150k salary plus equity. Apply to tech@ai-startup.com",legitimate
+268,"Mystery shopper opportunity. Shop and keep products! Send $400 for shopper certification via wire transfer. Free shopping!",scam
+269,"Principal Software Engineer. 10+ years experience. Architecture skills required. $150-200k salary. Apply to principal@tech-corp.com",legitimate
+270,"Currency exchange from home. Exchange currencies for profit. Send $900 for exchange license. Foreign exchange earnings!",scam
+271,"Director of Engineering position. Engineering leadership experience. $160-220k salary. Apply to director@engineering-firm.com",legitimate
+272,"Online survey coordinator. Coordinate survey responses. Pay $550 for survey management system. Easy coordination work!",scam
+273,"Senior Product Manager at e-commerce. Product strategy experience. $115-145k salary. Apply to product@ecommerce-giant.com",legitimate
+274,"ATM servicing job. Service ATM machines from home. Send $800 for ATM tools and training. Cash handling opportunity!",scam
+275,"Chief Technology Officer at startup. Technology vision required. $180-250k salary plus significant equity. Apply to cto@tech-startup.com",legitimate
+276,"Cryptocurrency mining from home. Mine crypto coins. Pay $1100 for professional mining rig. Digital gold mining!",scam
+277,"VP of Engineering position. Senior engineering leadership. $200-280k salary. Stock options. Apply to vp@unicorn-startup.com",legitimate
+278,"Online casino operations. Operate virtual casino games. Send $950 for casino operating license. Gaming industry profits!",scam
+279,"Staff Software Engineer at FAANG. Distributed systems expertise. $160-220k salary. Apply to staff@faang-company.com",legitimate
+280,"Binary options trading. Trade binary options from home. Pay $750 for trading platform access. Guaranteed winning strategy!",scam
+281,"Research Scientist at AI lab. PhD in CS/ML required. $140-180k salary. Apply to research@ai-research-lab.com",legitimate
+282,"Forex signal service. Provide forex trading signals. Send $650 for signal generation software. Subscriber revenue model!",scam
+283,"Senior Engineering Manager. Team leadership experience. $140-180k salary. Remote possible. Apply to senior@tech-scale.com",legitimate
+284,"Precious metals trading. Trade gold and silver. Pay $1200 for precious metals trading account. Metals market profits!",scam
+285,"Principal Product Manager. Product leadership experience. $130-170k salary. Apply to principal-pm@product-company.com",legitimate
+286,"Online payment processing. Process payments for businesses. Send $850 for payment processor license. E-commerce revolution!",scam
+287,"Distinguished Engineer position. Technical leadership and innovation. $180-250k salary. Apply to distinguished@tech-leader.com",legitimate
+288,"Cryptocurrency arbitrage. Profit from price differences. Pay $900 for arbitrage trading software. Risk-free crypto profits!",scam
+289,"Senior Director of Product. Product portfolio management. $150-200k salary. Apply to senior-director@product-corp.com",legitimate
+290,"Wire transfer coordination. Coordinate international wire transfers. Send $1000 for wire coordination system. Global finance!",scam
+291,"Head of Engineering role. Engineering organization leadership. $200-300k salary. Apply to head@engineering-company.com",legitimate
+292,"Investment fund management. Manage investment portfolios. Pay $1300 for fund management license. Institutional returns!",scam
+293,"Senior Staff Engineer at unicorn. Technical excellence required. $170-230k salary plus equity. Apply to senior-staff@unicorn.com",legitimate
+294,"Online trading mentorship. Mentor aspiring traders. Send $800 for mentorship certification materials. Share trading expertise!",scam
+295,"VP of Product position. Product organization leadership. $180-250k salary. Stock options. Apply to vp-product@growth-company.com",legitimate
+296,"Electronic funds transfer. Transfer funds electronically for clients. Pay $750 for EFT processing authorization. Digital banking!",scam
+297,"Fellow Engineer at tech giant. Research and innovation focus. $200-280k salary. Apply to fellow@tech-research.com",legitimate
+298,"Forex robot operation. Operate automated forex robots. Send $700 for robot operation license. Automated trading income!",scam
+299,"Chief Product Officer role. Product vision and strategy. $220-300k salary plus equity. Apply to cpo@product-leader.com",legitimate
+300,"Digital currency exchange. Operate digital currency exchange. Pay $1500 for exchange operating license. Crypto exchange empire!",scam
