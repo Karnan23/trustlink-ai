@@ -4,6 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.7.2-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.49.1-red)
 ![Accuracy](https://img.shields.io/badge/Accuracy-100%25-brightgreen)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 🎯 **Elevator Pitch**: AI-powered tool that combines machine learning with rule-based heuristics to identify suspicious job postings and protect job seekers from scams.
 
@@ -58,3 +59,7 @@ python src/sample_eval.py
 2. Add more sophisticated NLP features
 3. Implement user feedback loop
 4. Deploy as web service
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
