@@ -3,6 +3,11 @@
 import streamlit as st
 import joblib
 import os
+import sys
+
+# Add this for cloud deployment compatibility
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
 from model_utils import (
     preprocess_text, get_heuristic_analysis, get_model_explanation,
     calculate_final_score, get_risk_label, get_recommendation
