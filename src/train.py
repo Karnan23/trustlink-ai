@@ -28,6 +28,7 @@ def load_and_prepare_data(data_path='data/synthetic_jobs.csv'):
     df = pd.read_csv(data_path)
     
     # Convert labels to binary (scam=1, legitimate=0)
+    df['label'] = df['label'].astype(str).str.strip().str.lower()
     df['label'] = df['label'].map({'scam': 1, 'legitimate': 0})
     
     # Preprocess text
